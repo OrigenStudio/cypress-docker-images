@@ -1,4 +1,4 @@
-FROM cypress/base:11
+FROM origenstudio/cypress-base:11
 
 USER root
 
